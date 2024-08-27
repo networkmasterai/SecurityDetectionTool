@@ -70,7 +70,7 @@ This project is a Python-based vulnerability scanner with a Tkinter GUI. It allo
 # Contributions
 Contributions to improve or extend the functionality of this scanner are welcome. Please feel free to open issues or submit pull requests with enhancements or bug fixes.
 
-# Image
+#  Output Image
 
 1. ![Screenshot 2024-08-27 100936](https://github.com/user-attachments/assets/4f0018b0-8148-429d-aa75-ad98eb026a52)
 
