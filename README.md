@@ -72,7 +72,11 @@ Contributions to improve or extend the functionality of this scanner are welcome
 
 # Image
 
-![Screenshot 2024-08-27 100936](https://github.com/user-attachments/assets/4f0018b0-8148-429d-aa75-ad98eb026a52)
+1. ![Screenshot 2024-08-27 100936](https://github.com/user-attachments/assets/4f0018b0-8148-429d-aa75-ad98eb026a52)
+
+2. ![Screenshot 2024-08-27 101227](https://github.com/user-attachments/assets/e6375064-b4ab-4424-a882-44dd3f459170)
+
+
 
 
 
