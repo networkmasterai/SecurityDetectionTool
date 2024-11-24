@@ -24,6 +24,6 @@ echo "2. Service Detection: Uses the nmap library to detect services and version
 echo "3. Configuration Checks: Runs checks for SSH configuration vulnerabilities and placeholders for SSL/TLS checks."
 echo "4. GUI: Built with Tkinter, the application features fields for entering the target and port range, and a button to start the scan."
 echo
-echo "=============================================="
+echo "============================================"
 echo "End of Project Overview"
-echo "=============================================="
+echo "============================================"
