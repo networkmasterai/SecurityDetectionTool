@@ -1,15 +1,4 @@
 # VULNERABILITY-SCANNING-TOOL
-CODTECH IT SOLUTIONS CYBER ECURITY AND ETHICAL  HACKING  INTERNSHIP TASK 2.
-
-Name:Stalin S
-
-Company:CODTECH IT SOLUTIONS
-
-ID:CT08DS7156
-
-Domain:CYBER ECURITY AND ETHICAL HACKING
-
-Duration:AUG TO SEP 2024
 
 # Overview
 This project is a Python-based vulnerability scanner with a Tkinter GUI. It allows users to scan a specified IP address or domain for open ports, detect services and their versions, and check for common misconfigurations. The tool utilizes multi-threading for efficient port scanning and integrates with the nmap library for service detection.
